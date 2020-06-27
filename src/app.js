@@ -1,7 +1,7 @@
 import { AboutView } from './view/about.js';
 import { ProjectsView } from './view/projects.js';
 import { SkillsView } from './view/skills.js';
-import { Router } from './router.js'
+import { Router } from './router.js';
 
 const router = new Router();
 
